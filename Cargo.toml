@@ -2,5 +2,7 @@
 name = "penrose-lattice"
 version = "0.1.0"
 edition = "2024"
+description = "Penrose tilings as spectral graphs. Fibonacci substitution. Inflation/deflation symmetry. Farey sequences."
+license = "MIT"
 
 [dependencies]
